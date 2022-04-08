@@ -25,3 +25,12 @@ h1 {
 h2 {
     font-size: 50px;
 }
+
+li a {
+    color: white;
+    font-size: 22px;
+}
+
+a:hover {
+    color: #990033;
+}

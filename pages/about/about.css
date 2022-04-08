@@ -1,9 +1,9 @@
 .heading {
-    color: white;
+    color: #990033;
 }
 
 .text {
-    color: #990033;
+    color: white;
     font-size: 26px;
 }
 
@@ -21,4 +21,13 @@ h1 {
 
 h2 {
     font-size: 45px;
+}
+
+li a {
+    color: white;
+    font-size: 22px;
+}
+
+a:hover {
+    color: #990033;
 }

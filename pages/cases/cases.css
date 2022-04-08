@@ -18,3 +18,16 @@ h1 {
 h2 {
     font-size: 45px;
 }
+
+.bg-custom {
+    background-color: black;
+}
+
+li a {
+    color: white;
+    font-size: 22px;
+}
+
+a:hover {
+    color: #990033;
+}
