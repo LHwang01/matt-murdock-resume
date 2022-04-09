@@ -1,9 +1,9 @@
 .heading {
-    color: white;
+    color: #990033;
 }
 
 .text {
-    color: #990033;
+    color: white;
     font-size: 26px;
 }
 
@@ -28,6 +28,10 @@ li a {
     font-size: 22px;
 }
 
-a:hover {
+li a:hover {
     color: #990033;
+}
+
+.fisk {
+    max-width: 90%;
 }
